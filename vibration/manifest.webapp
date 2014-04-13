@@ -1,0 +1,5 @@
+{
+    "name": "Testing Vibration API",
+    "description": "Testing Vibration API",
+    "launch_path" : "/src/build/web/index.html"
+}
