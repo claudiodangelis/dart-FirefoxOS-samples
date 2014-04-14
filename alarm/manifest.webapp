@@ -1,0 +1,13 @@
+{
+    "name": "Testing AlarmAPI",
+    "description": "See above",
+    "launch_path": "/build/web/index.html",
+    "messages": [
+        {"alarm": "/build/web/index.html"}
+    ],
+    "permissions": {
+        "alarms": {
+            "description": "I want you to be alarmed"
+        }
+    }
+}
